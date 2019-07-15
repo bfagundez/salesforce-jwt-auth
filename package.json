@@ -1,11 +1,15 @@
 {
   "name": "salesforce-jwt-auth",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Modern JWT flow for Salesforce auth using async/await and fetch",
   "main": "./lib/index.js",
   "dependencies": {
     "form-data": "^2.5.0",
     "jsonwebtoken": "^8.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bfagundez/salesforce-jwt-auth"
   },
   "keywords": [
     "Salesforce",
